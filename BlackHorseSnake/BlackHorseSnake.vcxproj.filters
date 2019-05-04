@@ -21,12 +21,30 @@
     <ClInclude Include="targetver.h">
       <Filter>头文件</Filter>
     </ClInclude>
+    <ClInclude Include="Wall.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Snake.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Food.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="stdafx.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
     <ClCompile Include="BlackHorseSnake.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Wall.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Snake.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Food.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
